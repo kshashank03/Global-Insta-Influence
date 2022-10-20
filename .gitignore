@@ -1,0 +1,23 @@
+/__pycache__
+/.ipynb_checkpoints
+/.vscode
+/cleaned_data
+/data
+/Screen Recordings
+._DS_Store
+._data
+._get_min_dates.py
+1. Preliminary_Data_Exploration.ipynb
+2. Clean Data Creation.py
+3. Look at Clean Data.ipynb
+4. Global Centers of Influence.ipynb
+code_for_session.ipynb
+code_for_video.ipynb
+config.py
+create_accounts_dim_data.py
+create_all_posts_file.py
+get_min_dates.py
+hashtag_parser.py
+test.ipynb
+._.DS_Store
+.DS_Store
